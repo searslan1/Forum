@@ -1,0 +1,230 @@
+ * * * * * * * * * * * * * * * * * *
+   info 2023-08-11 09:25:28.564      front   main    732   8328                                  main - * AnyDesk MAC Startup *
+   info 2023-08-11 09:25:28.564      front   main    732   8328                                  main - * Version 7.2.1 (mac_release_7.2.1 3783b633bbbdf206814fd471fe72c777e618c7ed)
+   info 2023-08-11 09:25:28.564      front   main    732   8328                                  main - * Build 20230721154803
+   info 2023-08-11 09:25:28.564      front   main    732   8328                                  main - * Prefix ad
+   info 2023-08-11 09:25:28.569      front   main    732   8328                                  main - * OS Sürüm 12.6.5 (Geliştirme 21G531)
+   info 2023-08-11 09:25:28.569      front   main    732   8328                                  main - * Launch path /private/var/folders/sb/k2r68qr54rd75wd7xv598f7w0000gn/T/AppTranslocation/10315F13-6781-48C0-9B12-FFBC8E17A449/d/AnyDesk.app
+   info 2023-08-11 09:25:28.569      front   main    732   8328                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2023-08-11 09:25:28.569      front   main    732   8328                                  main - 
+   info 2023-08-11 09:25:28.569      front   main    732   8328                                  main - ppid: 1 uid: 501
+   info 2023-08-11 09:25:28.569      front   main    732   8328                                  main - process maxfiles 256 : -1
+   info 2023-08-11 09:25:28.570      front   main    732   8328                                  main - raising RLIMIT_NOFILE to 10240
+   info 2023-08-11 09:25:28.570      front   main    732   8328                         impl_selector - using sse2
+  error 2023-08-11 09:25:28.871      front   main    732   8328         mac_app.helper_tool_interface - No bundle.
+   info 2023-08-11 09:25:28.872      front   main    732   8328                   fiber.ipc_namespace - Global: no
+   info 2023-08-11 09:25:28.872      front   main    732   8328                           AppDelegate - Starting a local service.
+warning 2023-08-11 09:25:28.874      front   main    732   8328                   fiber.ipc_namespace - Local namespace without service.
+ * * * * * * * * * * * * * * * * * *
+   info 2023-08-11 09:25:28.891       lsvc   main    739   8503                                  main - * AnyDesk MAC Startup *
+   info 2023-08-11 09:25:28.891       lsvc   main    739   8503                                  main - * Version 7.2.1 (mac_release_7.2.1 3783b633bbbdf206814fd471fe72c777e618c7ed)
+   info 2023-08-11 09:25:28.891       lsvc   main    739   8503                                  main - * Build 20230721154803
+   info 2023-08-11 09:25:28.891       lsvc   main    739   8503                                  main - * Prefix ad
+   info 2023-08-11 09:25:28.895       lsvc   main    739   8503                                  main - * OS Sürüm 12.6.5 (Geliştirme 21G531)
+   info 2023-08-11 09:25:28.895       lsvc   main    739   8503                                  main - * Launch path /var/folders/sb/k2r68qr54rd75wd7xv598f7w0000gn/T/AppTranslocation/10315F13-6781-48C0-9B12-FFBC8E17A449/d/AnyDesk.app
+   info 2023-08-11 09:25:28.895       lsvc   main    739   8503                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2023-08-11 09:25:28.895       lsvc   main    739   8503                                  main - 
+   info 2023-08-11 09:25:28.895       lsvc   main    739   8503                                  main - ppid: 732 uid: 501
+   info 2023-08-11 09:25:28.895       lsvc   main    739   8503                                  main - process maxfiles 12544 : -1
+   info 2023-08-11 09:25:28.895       lsvc   main    739   8503                         impl_selector - using sse2
+   info 2023-08-11 09:25:28.896       lsvc   main    739   8503                       app.common_path - initialized user = /Users/macbookpro/.anydesk, system = /Users/macbookpro/.anydesk
+warning 2023-08-11 09:25:28.896       lsvc   main    739   8503                       app.common_path - Can't symlink /Users/macbookpro/Movies/anydesk (0)
+   info 2023-08-11 09:25:28.896       lsvc   main    739   8503                      main.run_service - Starting local service.
+   info 2023-08-11 09:25:28.897       lsvc   main    739   8503          base.data.config_application - Adding GPO defaults layer.
+   info 2023-08-11 09:25:28.897       lsvc   main    739   8503          base.data.config_application - Adding GPO overrides layer.
+   info 2023-08-11 09:25:28.898       lsvc   main    739   8503                               app.mdm - Loaded 0/102 MDM overrides
+   info 2023-08-11 09:25:28.898       lsvc   main    739   8503                               app.mdm - Loaded 0/102 MDM overrides
+   info 2023-08-11 09:25:28.899       lsvc   main    739   8503            permission_profile_manager - Migrating V0 -> V1
+   info 2023-08-11 09:25:28.901       lsvc   main    739   8503                       fiber.scheduler - Spawning root fiber 1.
+   info 2023-08-11 09:25:28.901       lsvc   main    739   8503                       fiber.scheduler - Scheduler started.
+   info 2023-08-11 09:25:28.901       lsvc   main    739   8503    1                      app.service - Opening the IPC namespace.
+   info 2023-08-11 09:25:28.901       lsvc   main    739   8503    1              fiber.ipc_namespace - Global: no
+   info 2023-08-11 09:25:28.901       lsvc   main    739   8503    1                      app.service - Logging into the IPC namespace.
+   info 2023-08-11 09:25:28.902       lsvc   main    739   8503    1                  fiber.scheduler - Spawning child fiber 2 'license_adapter' (parent: 1).
+   info 2023-08-11 09:25:28.902       lsvc   main    739   8503    1                      app.service - Starting to supervise the IPC namespace.
+   info 2023-08-11 09:25:28.902       lsvc   main    739   8503    1                      app.service - Starting the connector.
+   info 2023-08-11 09:25:28.902       lsvc   main    739   8503    1            anynet.connection_mgr - Generating a new certificate and key.
+   info 2023-08-11 09:25:28.975      front   main    732   8328                       app.common_path - initialized user = /Users/macbookpro/.anydesk, system = /Users/macbookpro/.anydesk
+   info 2023-08-11 09:25:28.975      front   main    732   8328                           AppDelegate - Starting frontend (6).
+   info 2023-08-11 09:25:28.976      front   main    732   8328          base.data.config_application - Adding GPO defaults layer.
+   info 2023-08-11 09:25:28.976      front   main    732   8328          base.data.config_application - Adding GPO overrides layer.
+   info 2023-08-11 09:25:28.976      front   main    732   8328                               app.mdm - Loaded 0/102 MDM overrides
+   info 2023-08-11 09:25:28.977      front   main    732   8328                               app.mdm - Loaded 0/102 MDM overrides
+   info 2023-08-11 09:25:28.977      front   main    732   8328                           gui.gui_app - DPI scaling: 2.00 / 2.00
+   info 2023-08-11 09:25:28.977      front   main    732   8328                           gui.gui_app - Using high-resolution bitmaps.
+warning 2023-08-11 09:25:28.979      front   main    732   8328                          account_info - Could not read account info from config.
+warning 2023-08-11 09:25:28.979      front   main    732   8328                          account_info - Could not read account info from config.
+   info 2023-08-11 09:25:28.979      front   main    732   8328                       base.signal.hub - 8 threads.
+   info 2023-08-11 09:25:29.075       lsvc   main    739   8503    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2023-08-11 09:25:29.075       lsvc   main    739   8503    1                  fiber.scheduler - Spawning root fiber 3 'connection_mgr'.
+   info 2023-08-11 09:25:29.076       lsvc   main    739   8503    1                  fiber.scheduler - Spawning root fiber 4 'main_relay_conn'.
+   info 2023-08-11 09:25:29.076       lsvc   main    739   8503    1                  fiber.scheduler - Spawning root fiber 5 'tcp_acceptor'.
+   info 2023-08-11 09:25:29.076       lsvc   main    739   8503    1                  fiber.scheduler - Spawning root fiber 6 'tcp_acceptor'.
+   info 2023-08-11 09:25:29.076       lsvc   main    739   8503    1                      app.service - Setting up the listen sockets.
+   info 2023-08-11 09:25:29.077       lsvc   main    739   8503    1                  fiber.scheduler - Spawning root fiber 7.
+   info 2023-08-11 09:25:29.077       lsvc   main    739   8503    1                      app.service - Service startup completed.
+   info 2023-08-11 09:25:29.077       lsvc   main    739   8503    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2023-08-11 09:25:29.077       lsvc   main    739   8503    1            app.discovery_manager - Starting Discovery.
+   info 2023-08-11 09:25:29.078       lsvc   main    739   8503    1                   ad.wol_service - Starting WOL service.
+   info 2023-08-11 09:25:29.078       lsvc   main    739   8503    1                  fiber.scheduler - Spawning child fiber 8 'wol_service' (parent: 1).
+   info 2023-08-11 09:25:29.078       lsvc   main    739   8503    1                  fiber.scheduler - Spawning child fiber 9 'invitation_service' (parent: 1).
+   info 2023-08-11 09:25:29.078       lsvc   main    739   8503    1                  fiber.scheduler - Spawning child fiber 10 'ancl' (parent: 1).
+   info 2023-08-11 09:25:29.078       lsvc   main    739   8503    1                  fiber.scheduler - Spawning child fiber 11 'quiver_anynet_service' (parent: 1).
+   info 2023-08-11 09:25:29.078       lsvc   main    739   8503    1                      app.service - Waiting for messages.
+   info 2023-08-11 09:25:29.079       lsvc   main    739   8503    2          license_service_adapter - Preparing quiver based account service
+   info 2023-08-11 09:25:29.079       lsvc   main    739   8503    3            anynet.connection_mgr - Starting connection manager fiber.
+   info 2023-08-11 09:25:29.079       lsvc   main    739   8503    4           anynet.main_relay_conn - Starting main relay connection.
+   info 2023-08-11 09:25:29.080       lsvc   main    739   8503    4                  fiber.scheduler - Spawning child fiber 12 'relay_connector' (parent: 4 'main_relay_conn').
+   info 2023-08-11 09:25:29.080       lsvc   main    739   8503    5              anynet.tcp_acceptor - Listening on TCP port 7070 with IPv4.
+   info 2023-08-11 09:25:29.080       lsvc   main    739   8503    6              anynet.tcp_acceptor - Listening on TCP port 7070 with IPv6.
+   info 2023-08-11 09:25:29.080       lsvc   main    739   8503    7                anynet.any_socket - Listen fiber started.
+   info 2023-08-11 09:25:29.081       lsvc   main    739   8503    8                      anynet.conn - Request before connect. Queueing.
+   info 2023-08-11 09:25:29.083       lsvc   main    739   8503   12           anynet.relay_connector - Relay connector started.
+   info 2023-08-11 09:25:29.083       lsvc   main    739   8503   12           anynet.relay_connector - Start proxy search.
+   info 2023-08-11 09:25:29.084       lsvc   main    739   8503   12           anynet.relay_connector - Connecting to relay boot.net.anydesk.com (1/1)
+   info 2023-08-11 09:25:29.084       lsvc   main    739   8503   12           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2023-08-11 09:25:29.084       lsvc   main    739   8503   12           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2023-08-11 09:25:29.084       lsvc   main    739   8503   12           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2023-08-11 09:25:29.122       lsvc   main    739   8503   12           anynet.relay_connector - Using IPv4: 185.229.191.41
+   info 2023-08-11 09:25:29.185       lsvc   main    739   8503   12                  fiber.scheduler - Spawning root fiber 13.
+   info 2023-08-11 09:25:29.332       lsvc   main    739   8503   12           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2023-08-11 09:25:29.332       lsvc   main    739   8503   12                  fiber.scheduler - Spawning root fiber 14.
+   info 2023-08-11 09:25:29.339       lsvc   main    739   8503   12                        handshake - Using protocol version 3.
+   info 2023-08-11 09:25:29.402       lsvc   main    739   8503                       fiber.scheduler - Fiber 12 'relay_connector' (parent: 4 'main_relay_conn') requested quit of fiber 14.
+   info 2023-08-11 09:25:29.402       lsvc   main    739   8503   14                      fiber.fiber - Received quit.
+   info 2023-08-11 09:25:29.402       lsvc   main    739   8503                       fiber.scheduler - Fiber 14 terminated.
+   info 2023-08-11 09:25:29.403       lsvc   main    739   8503                       fiber.scheduler - Fiber 12 'relay_connector' (parent: 4 'main_relay_conn') requested quit of fiber 13.
+   info 2023-08-11 09:25:29.403       lsvc   main    739   8503   13                      fiber.fiber - Received quit.
+   info 2023-08-11 09:25:29.403       lsvc   main    739   8503                       fiber.scheduler - Fiber 13 terminated.
+   info 2023-08-11 09:25:29.403       lsvc   main    739   8503   12           anynet.relay_connector - Connection terminated: anynet_invalid_zone
+   info 2023-08-11 09:25:29.403       lsvc   main    739   8503   12           anynet.relay_connector - Received a new server list (5 servers)
+   info 2023-08-11 09:25:29.403       lsvc   main    739   8503   12           anynet.relay_connector - Connecting to relay relay-1ec55d2c.net.anydesk.com (1/5)
+   info 2023-08-11 09:25:29.403       lsvc   main    739   8503   12           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2023-08-11 09:25:29.403       lsvc   main    739   8503   12           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2023-08-11 09:25:29.403       lsvc   main    739   8503   12           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2023-08-11 09:25:29.440       lsvc   main    739   8503   12           anynet.relay_connector - Using IPv4: 92.38.180.108
+   info 2023-08-11 09:25:29.465       lsvc   main    739   8503   12                  fiber.scheduler - Spawning root fiber 15.
+   info 2023-08-11 09:25:29.522       lsvc   main    739   8503   12           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2023-08-11 09:25:29.522       lsvc   main    739   8503   12                  fiber.scheduler - Spawning root fiber 16.
+   info 2023-08-11 09:25:29.523       lsvc   main    739   8503   12                        handshake - Using protocol version 3.
+   info 2023-08-11 09:25:29.688       lsvc   main    739   8503   12           anynet.relay_connector - Connection established.
+   info 2023-08-11 09:25:29.688       lsvc   main    739   8503   12           anynet.relay_connector - Relay connector stopped.
+   info 2023-08-11 09:25:29.688       lsvc   main    739   8503                       fiber.scheduler - Fiber 12 'relay_connector' (parent: 4 'main_relay_conn') terminated.
+   info 2023-08-11 09:25:29.690       lsvc   main    739   8503    4           anynet.main_relay_conn - Network ID: main
+   info 2023-08-11 09:25:29.691       lsvc   main    739   8503    4                anynet.relay_conn - External address: 176.218.108.101:49300.
+   info 2023-08-11 09:25:29.691       lsvc   main    739   8503    4           anynet.main_relay_conn - Main relay ID: 1ec55d2c
+   info 2023-08-11 09:25:29.762       lsvc   main    739   8503    4           anynet.main_relay_conn - Detected 2 new networks.
+   info 2023-08-11 09:25:29.763       lsvc   main    739   8503   11                   anynet_service - Relay connection state changed: Connected.
+   info 2023-08-11 09:25:29.763       lsvc   main    739   8503    1                   monitoring_svc - Connected: 1
+  error 2023-08-11 09:25:29.763       lsvc   main    739   8503    2          license_service_adapter - Unhandled message. (license_msg_t)
+  error 2023-08-11 09:25:29.763       lsvc   main    739   8503    2          license_service_adapter - Unhandled message. (connect_msg_t)
+  error 2023-08-11 09:25:29.763       lsvc   main    739   8503    2          license_service_adapter - Unhandled message. (user_data_msg_t)
+   info 2023-08-11 09:25:29.763       lsvc   main    739   8503    3            anynet.connection_mgr - Main relay connection established.
+   info 2023-08-11 09:25:29.763       lsvc   main    739   8503    3            anynet.connection_mgr - New user data. Client-ID: 1685722797.
+   info 2023-08-11 09:25:29.876       lsvc   main    739   8503    1                    app.discovery - Starting.
+   info 2023-08-11 09:25:29.876       lsvc   main    739   8503    1                  fiber.scheduler - Spawning root fiber 17 'discovery'.
+   info 2023-08-11 09:25:29.877       lsvc   main    739   8503   17                    app.discovery - Current Discovery revision: 0
+   info 2023-08-11 09:25:29.878       lsvc   main    739   8503   17                    app.discovery - Joined multicast group 239.255.102.18:50001.
+   info 2023-08-11 09:25:29.878       lsvc   main    739   8503   17                    app.discovery - Bound to port: 50001
+   info 2023-08-11 09:25:29.878       lsvc   main    739   8503   17                anynet.udp_socket - Multicast loop option set to 0
+   info 2023-08-11 09:25:29.883       lsvc   main    739   8503   17                    app.discovery - Discovery fiber started.
+   info 2023-08-11 09:25:29.911      front   timr    732   8537          base.signal.local.timer_impl - Initialized master timer.
+   info 2023-08-11 09:25:29.912      front   ctrl    732   8538                      mac_app.frontend - Frontend startup.
+   info 2023-08-11 09:25:29.912      front   ctrl    732   8538                      mac_app.frontend - Logging the frontend in.
+   info 2023-08-11 09:25:29.913       lsvc   main    739   8503    1                      app.service - Process start: 732 (frontend).
+   info 2023-08-11 09:25:29.913       lsvc   main    739   8503    1           anynet.relay_connector - Short timeouts enabled.
+   info 2023-08-11 09:25:30.052       lsvc   main    739   8503    1                      app.service - New IPC connection.
+   info 2023-08-11 09:25:30.052       lsvc   main    739   8503    1                  fiber.scheduler - Spawning child fiber 18 'ipc_connection' (parent: 1).
+   info 2023-08-11 09:25:30.052       lsvc   main    739   8503   18                      app.service - Creating an IPC accept socket.
+   info 2023-08-11 09:25:30.054       lsvc   main    739   8503   18                      app.service - Connected to 732 (frontend).
+warning 2023-08-11 09:25:30.054      front   ctrl    732   8538                          account_info - Could not read account info from config.
+   info 2023-08-11 09:25:30.054       lsvc   main    739   8503   18                      app.service - Process login detected.
+warning 2023-08-11 09:25:30.055       lsvc   main    739   8503   18                      app.service - Unexpected message. packet_msg_t
+warning 2023-08-11 09:25:30.055      front   wrk1    732   8540                                   sif - Dropping out of date license response.
+   info 2023-08-11 09:25:30.055       lsvc   main    739   8503   18                  fiber.scheduler - Spawning child fiber 19 'account_adapter' (parent: 18 'ipc_connection').
+   info 2023-08-11 09:25:30.056      front   wrk2    732   8541                               app.mdm - Loaded 0/102 MDM overrides
+   info 2023-08-11 09:25:30.056       lsvc   main    739   8503    1                          app.mdm - Loaded 0/102 MDM overrides
+  error 2023-08-11 09:25:30.070      front   wrk2    732   8541         mac_app.helper_tool_interface - No bundle.
+  error 2023-08-11 09:25:30.083      front   wrk2    732   8541         mac_app.helper_tool_interface - No bundle.
+   info 2023-08-11 09:25:30.094      front   main    732   8328                             url_query - append
+   info 2023-08-11 09:25:30.094      front   main    732   8328                             url_query - append
+   info 2023-08-11 09:25:30.094      front   main    732   8328                             url_query - append
+   info 2023-08-11 09:25:30.094      front   main    732   8328                             url_query - append
+   info 2023-08-11 09:25:30.094      front   main    732   8328                             url_query - append
+   info 2023-08-11 09:25:30.094      front   main    732   8328                             url_query - append
+   info 2023-08-11 09:25:30.122      front   main    732   8328                             url_query - append
+   info 2023-08-11 09:25:30.122      front   main    732   8328                             url_query - append
+   info 2023-08-11 09:25:30.122      front   main    732   8328                             url_query - append
+warning 2023-08-11 09:25:30.132      front   ctrl    732   8538                          account_info - Could not read account info from config.
+   info 2023-08-11 09:25:30.132      front   ctrl    732   8538                     base.monitor_info - 1 active monitor(s) found.
+   info 2023-08-11 09:25:30.136       lsvc   main    739   8503   18           anynet.main_relay_conn - Reporting system information.
+   info 2023-08-11 09:25:30.171       lsvc   main    739   8503    1                      app.service - License backend service status changed (0->1)
+warning 2023-08-11 09:25:30.171      front   wrk2    732   8541                      mac_app.frontend - Dropping out of date license response.
+   info 2023-08-11 09:25:30.171      front   wrk2    732   8541                   anymessage.provider - License changed. Requesting messages update.
+  error 2023-08-11 09:25:30.182      front   main    732   8328         mac_app.helper_tool_interface - No bundle.
+   info 2023-08-11 09:25:30.259       lsvc   main    739   8503   19                      app.service - Account: 501; 
+   info 2023-08-11 09:25:30.260       lsvc   main    739   8503    1                      app.service - Account backend service status changed (0->1)
+  error 2023-08-11 09:25:30.260      front   wrk1    732   8540                               account - Unexpected response for request_account_info.
+  error 2023-08-11 09:25:30.298      front   main    732   8328         mac_app.helper_tool_interface - No bundle.
+   info 2023-08-11 09:25:41.348      front   main    732   8328                             url_query - append
+   info 2023-08-11 09:25:41.348      front   main    732   8328                             url_query - append
+   info 2023-08-11 09:25:41.348      front   main    732   8328                             url_query - append
+   info 2023-08-11 09:25:44.386      front   main    732   8328                             url_query - append
+   info 2023-08-11 09:25:44.386      front   main    732   8328                             url_query - append
+   info 2023-08-11 09:25:44.386      front   main    732   8328                             url_query - append
+   info 2023-08-11 09:25:45.590      front   main    732   8328              app.UpdateViewController - Installation started.
+  error 2023-08-11 09:25:45.590      front   main    732   8328         mac_app.helper_tool_interface - Can't connect to helper
+   info 2023-08-11 09:25:45.590      front   main    732   8328              app.UpdateViewController - Heler existing: required:2.11
+   info 2023-08-11 09:25:45.590      front   main    732   8328         mac_app.helper_tool_interface - *** Installing helper tool... ***
+   info 2023-08-11 09:25:50.011      front   main    732   8328         mac_app.helper_tool_interface - Helper tool installation successeded
+   info 2023-08-11 09:25:50.217      front   main    732   8328              app.UpdateViewController - Installing AnyDesk..
+   info 2023-08-11 09:25:50.561      front   main    732   8328         mac_app.helper_tool_interface - Try to install anydesk
+   info 2023-08-11 09:25:50.561      front   main    732   8328         mac_app.helper_tool_interface - Install anyDesk Bundle: /private/var/folders/sb/k2r68qr54rd75wd7xv598f7w0000gn/T/AppTranslocation/10315F13-6781-48C0-9B12-FFBC8E17A449/d/AnyDesk.app, sysconfig : /Users/macbookpro/.anydesk, ad_namespace : anydesk - 
+   info 2023-08-11 09:25:50.688       lsvc   main    739   8503                       fiber.scheduler - Quitting scheduler (1).
+   info 2023-08-11 09:25:50.688       lsvc   main    739   8503                       fiber.scheduler - Quitting all fibers.
+   info 2023-08-11 09:25:50.688       lsvc   main    739   8503                       fiber.scheduler - Fiber 1 requested quit of fiber 2 'license_adapter' (parent: 1).
+   info 2023-08-11 09:25:50.689       lsvc   main    739   8503    2                      fib_service - Caught exception. quitting.
+   info 2023-08-11 09:25:50.689       lsvc   main    739   8503                       fiber.scheduler - Fiber 2 'license_adapter' (parent: 1) terminated.
+   info 2023-08-11 09:25:50.689       lsvc   main    739   8503    3            anynet.connection_mgr - Connection manager fiber quit.
+   info 2023-08-11 09:25:50.689       lsvc   main    739   8503                       fiber.scheduler - Fiber 3 'connection_mgr' terminated.
+   info 2023-08-11 09:25:50.689       lsvc   main    739   8503    4           anynet.main_relay_conn - Main relay connection closed.
+   info 2023-08-11 09:25:50.690       lsvc   main    739   8503    4            anynet.connection_mgr - Forcing cleanup.
+   info 2023-08-11 09:25:50.690       lsvc   main    739   8503                       fiber.scheduler - Fiber 4 'main_relay_conn' requested quit of fiber 16.
+   info 2023-08-11 09:25:50.690       lsvc   main    739   8503    5              anynet.tcp_acceptor - Received quit.
+   info 2023-08-11 09:25:50.690       lsvc   main    739   8503                       fiber.scheduler - Fiber 5 'tcp_acceptor' terminated.
+   info 2023-08-11 09:25:50.690       lsvc   main    739   8503    6              anynet.tcp_acceptor - Received quit.
+   info 2023-08-11 09:25:50.690       lsvc   main    739   8503                       fiber.scheduler - Fiber 6 'tcp_acceptor' terminated.
+   info 2023-08-11 09:25:50.690       lsvc   main    739   8503    7                anynet.any_socket - Listen fiber stopped.
+   info 2023-08-11 09:25:50.691       lsvc   main    739   8503                       fiber.scheduler - Fiber 7 terminated.
+  error 2023-08-11 09:25:50.691       lsvc   main    739   8503   10                             ancl - ancl could not be requested! (result_quit)
+   info 2023-08-11 09:25:50.691       lsvc   main    739   8503   15                      fiber.fiber - Received quit.
+   info 2023-08-11 09:25:50.691       lsvc   main    739   8503                       fiber.scheduler - Fiber 15 terminated.
+   info 2023-08-11 09:25:50.691       lsvc   main    739   8503   16                      fiber.fiber - Received quit.
+   info 2023-08-11 09:25:50.691       lsvc   main    739   8503                       fiber.scheduler - Fiber 16 terminated.
+   info 2023-08-11 09:25:50.692       lsvc   main    739   8503   17                    app.discovery - Left multicast group 239.255.102.18:50001.
+   info 2023-08-11 09:25:50.692       lsvc   main    739   8503   17                    app.discovery - Discovery fiber stopped.
+   info 2023-08-11 09:25:50.692       lsvc   main    739   8503                       fiber.scheduler - Fiber 17 'discovery' terminated.
+   info 2023-08-11 09:25:50.692       lsvc   main    739   8503                       fiber.scheduler - Fiber 1 requested quit of fiber 10 'ancl' (parent: 1).
+   info 2023-08-11 09:25:50.692       lsvc   main    739   8503                       fiber.scheduler - Fiber 4 'main_relay_conn' terminated.
+   info 2023-08-11 09:25:50.692       lsvc   main    739   8503   10                      fib_service - Caught exception. quitting.
+   info 2023-08-11 09:25:50.693       lsvc   main    739   8503                       fiber.scheduler - Fiber 10 'ancl' (parent: 1) terminated.
+   info 2023-08-11 09:25:50.693       lsvc   main    739   8503    1                      app.service - Service shutdown.
+   info 2023-08-11 09:25:50.693       lsvc   main    739   8503                       fiber.scheduler - Fiber 1 requested quit of fiber 8 'wol_service' (parent: 1).
+   info 2023-08-11 09:25:50.693       lsvc   main    739   8503    8                      fiber.fiber - Received quit.
+   info 2023-08-11 09:25:50.693       lsvc   main    739   8503                       fiber.scheduler - Fiber 8 'wol_service' (parent: 1) terminated.
+   info 2023-08-11 09:25:50.693       lsvc   main    739   8503                       fiber.scheduler - Fiber 1 requested quit of fiber 9 'invitation_service' (parent: 1).
+   info 2023-08-11 09:25:50.693       lsvc   main    739   8503    9                      fib_service - Caught exception. quitting.
+   info 2023-08-11 09:25:50.693       lsvc   main    739   8503                       fiber.scheduler - Fiber 9 'invitation_service' (parent: 1) terminated.
+   info 2023-08-11 09:25:50.693       lsvc   main    739   8503                       fiber.scheduler - Fiber 1 requested quit of fiber 11 'quiver_anynet_service' (parent: 1).
+   info 2023-08-11 09:25:50.693       lsvc   main    739   8503                       fiber.scheduler - Fiber 11 'quiver_anynet_service' (parent: 1) terminated.
+   info 2023-08-11 09:25:50.694       lsvc   main    739   8503                       fiber.scheduler - Fiber 1 requested quit of fiber 18 'ipc_connection' (parent: 1).
+   info 2023-08-11 09:25:50.694       lsvc   main    739   8503                       fiber.scheduler - Fiber 18 'ipc_connection' (parent: 1) requested quit of fiber 19 'account_adapter' (parent: 18 'ipc_connection').
+   info 2023-08-11 09:25:50.694       lsvc   main    739   8503   19                      fiber.fiber - Received quit.
+   info 2023-08-11 09:25:50.694       lsvc   main    739   8503                       fiber.scheduler - Fiber 19 'account_adapter' (parent: 18 'ipc_connection') terminated.
+   info 2023-08-11 09:25:50.694       lsvc   main    739   8503   18                      app.service - Fiber exit (ipc).
+   info 2023-08-11 09:25:50.694       lsvc   main    739   8503                       fiber.scheduler - Fiber 18 'ipc_connection' (parent: 1) terminated.
+   info 2023-08-11 09:25:50.694       lsvc   main    739   8503    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2023-08-11 09:25:51.929       lsvc   main    739   8503                       fiber.scheduler - Fiber 1 terminated.
+   info 2023-08-11 09:25:51.929       lsvc   main    739   8503                       fiber.scheduler - All fibers terminated.
+   info 2023-08-11 09:25:51.929       lsvc   main    739   8503                       fiber.scheduler - Scheduler stopped (1).
+   info 2023-08-11 09:25:51.929       lsvc   main    739   8503                      main.run_service - Exiting
